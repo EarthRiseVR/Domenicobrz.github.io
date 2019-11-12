@@ -62,7 +62,7 @@ function init() {
 
     
     var img = new Image();
-    img.src = 'fd3.jpg';    
+    img.src = 'apollo-program-69.jpg';    
     img.onload = function() {
         ctx.drawImage(img, 0, 0, canvasSize, canvasSize);
         img.style.display = 'none';
